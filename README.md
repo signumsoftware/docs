@@ -20,7 +20,7 @@ Here are some links that can be usefull
 * [Webpack](https://webpack.js.org/)
 * [Free Code Camp](https://www.freecodecamp.org/) for Javascript and Typescript and React 
 
-Additionally, there are some documents that could help in [0-Prerequisites](https://github.com/signumsoftware/docs/tree/master/0-Prerequisites) folder.
+Additionally,  in [0-Prerequisites](https://github.com/signumsoftware/docs/tree/master/0-Prerequisites) folder there are some documents that could help clarify important concepts in C# / Typescript + React before starting with the Signum Framework.
 
 ## Signum Framework
 
@@ -30,13 +30,13 @@ The [documentation site](http://www.signumsoftware.com/Documentation) in http://
 
 ### Tutorials
 
-In this folder there are docx files that explain the architecture of a Signum Framework application, like [Southwind](https://github.com/signumsoftware/southwind) or any [clone](http://www.signumsoftware.com/en/DuplicateApplication).
+In [1-Tutorials](https://github.com/signumsoftware/docs/tree/master/1-Tutorials) there are docx files that explain the architecture of a Signum Framework application, like [Southwind](https://github.com/signumsoftware/southwind) or any [clone](http://www.signumsoftware.com/en/DuplicateApplication).
 
 The documents are meant to give an overview of the different projects/modules and should be followed in order. They pretend to create a new application (Southwind) as a greenfield project but loading data from another database (Northwind).
 
 ### Other
 
-Some unrelated documents that try to explain specific concepts. 
+In [2-Other](https://github.com/signumsoftware/docs/tree/master/2-Other) unrelated documents that try to explain specific concepts. 
 
 ## Signum Extensions 
 
