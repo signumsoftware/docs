@@ -10,7 +10,7 @@ In order to be effecting using Signum Framework a developer needs to know:
 * Javascript / Typescript (ES6)
 * React
 
-Here are some links that can be usefull 
+Here are some links that can be useful
 
 * [C# Fundamentals: Development for Absolute Beginners](https://channel9.msdn.com/Series/C-Sharp-Fundamentals-Development-for-Absolute-Beginners)
 * [101 LINQ Samples](https://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b)
@@ -20,7 +20,7 @@ Here are some links that can be usefull
 * [Webpack](https://webpack.js.org/)
 * [Free Code Camp](https://www.freecodecamp.org/) for Javascript and Typescript and React 
 
-Additionally,  in [0-Prerequisites](https://github.com/signumsoftware/docs/tree/master/0-Prerequisites) folder there are some documents that could help clarify important concepts in C# / Typescript + React before starting with the Signum Framework.
+Additionally, in [0-Prerequisites](https://github.com/signumsoftware/docs/tree/master/0-Prerequisites) folder there are some documents that could help clarify important concepts in C# / Typescript + React before starting with the Signum Framework.
 
 ## Signum Framework
 
