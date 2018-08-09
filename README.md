@@ -34,7 +34,7 @@ Some unrelated documents that try to explain specific concepts.
 
 ## Signum Framework markdown documentation 
 
-The (documentation site)[http://www.signumsoftware.com/Documentation] in www.signumsoftware.com contains a viewer for the Markdown files included in Signum Framework repository. 
+The [documentation site](http://www.signumsoftware.com/Documentation) in http://www.signumsoftware.com contains a viewer for the Markdown files included in Signum Framework repository. 
 
 ## Signum Extensions 
 
