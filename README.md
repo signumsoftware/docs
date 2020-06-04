@@ -18,6 +18,8 @@ Backend:
 * [C# Advanced](https://channel9.msdn.com/Series/C-Advanced)
 * [101 LINQ Samples](https://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b)
 * [LINQ Samples](https://linqsamples.com/linq-to-objects/projection/Select)
+* [.Net Core 101](https://channel9.msdn.com/Series/NET-Core-101)
+* [ASP.NET Core 101](https://channel9.msdn.com/Series/ASPNET-Core-101) (... not so important, we use only Web.API, no Razor or Blazor). 
 
 Frontend: 
 * [React](https://reactjs.org/docs/hello-world.html)
