@@ -12,9 +12,14 @@ In order to be effecting using Signum Framework a developer needs to know:
 
 Here are some links that can be useful
 
+Backend:
 * [C# Fundamentals: Development for Absolute Beginners](https://channel9.msdn.com/Series/C-Sharp-Fundamentals-Development-for-Absolute-Beginners)
+* [C# 101](https://channel9.msdn.com/Series/CSharp-101)
+* [C# Advanced](https://channel9.msdn.com/Series/C-Advanced)
 * [101 LINQ Samples](https://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b)
 * [LINQ Samples](https://linqsamples.com/linq-to-objects/projection/Select)
+
+Frontend: 
 * [React](https://reactjs.org/docs/hello-world.html)
 * [TypeScript documentation](http://www.typescriptlang.org/docs/home.html)
 * [Typescript Cheatsheet](https://rmolinamir.github.io/typescript-cheatsheet/)
