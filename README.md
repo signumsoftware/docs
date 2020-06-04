@@ -17,6 +17,7 @@ Here are some links that can be useful
 * [LINQ Samples](https://linqsamples.com/linq-to-objects/projection/Select)
 * [React](https://reactjs.org/docs/hello-world.html)
 * [TypeScript documentation](http://www.typescriptlang.org/docs/home.html)
+* [Typescript Cheatsheet](https://rmolinamir.github.io/typescript-cheatsheet/)
 * [Webpack](https://webpack.js.org/)
 * [Free Code Camp](https://www.freecodecamp.org/) for Javascript and Typescript and React 
 
