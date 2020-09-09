@@ -58,6 +58,7 @@ If you have access to Udemy.com, this videos could be usefull to learn the prere
   - Skip: 9: Drag and Drop
   - Skip: 15: Express
 
+#### React
 * https://bechtle.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/13914110#overview
   - Class Component -> Old (not so important)
   - Functional Components and hooks -> New (IMPORTANT)
