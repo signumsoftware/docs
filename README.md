@@ -35,31 +35,31 @@ Additionally, in [0-Prerequisites](https://github.com/signumsoftware/docs/tree/m
 If you have access to Udemy.com, this videos could be usefull to learn the prerequisites.
 
 #### C#
-* https://bechtle.udemy.com/course/csharp-advanced/learn/lecture/1988784#overview 
+* https://www.udemy.com/course/csharp-advanced/
   - Skip: Dynamic
 
-* https://bechtle.udemy.com/course/linqlinq/learn/lecture/6250142#overviews
+* https://www.udemy.com/course/linqlinq/
   - Skip: Parallel Linq
   - Skip: Rider, MoreLINQ
 
-* https://bechtle.udemy.com/course/csharp7-whats-new/
+* https://www.udemy.com/course/csharp7-whats-new/
   - Skip: Everithing but C# 8 Nullable reference types
 
 #### Javascript
 
-* https://bechtle.udemy.com/course/modern-javascript-from-the-beginning/learn/lecture/8757064#overview
+* https://www.udemy.com/course/modern-javascript-from-the-beginning/
   - Skip: 4: Dom projects
   - Skip: 6: OOP Book List PRoject
   - Skip: 8: API Projects
 
 #### Typescript
-* https://bechtle.udemy.com/course/understanding-typescript/learn/lecture/17751414#overview
+* https://www.udemy.com/course/understanding-typescript/
   - Skip: 8: Decorators
   - Skip: 9: Drag and Drop
   - Skip: 15: Express
 
 #### React
-* https://bechtle.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/13914110#overview
+* https://www.udemy.com/course/react-the-complete-guide-incl-redux/
   - Class Component -> Old (not so important)
   - Functional Components and hooks -> New (IMPORTANT)
   - Skip: 5.70,71,72 Styled Components
