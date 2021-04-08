@@ -12,6 +12,10 @@ In order to be effecting using Signum Framework a developer needs to know:
 
 Here are some links that can be useful
 
+GIT: 
+
+* [Commits are Snapshits not Diffs](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
+
 Backend:
 * [C# Fundamentals: Development for Absolute Beginners](https://channel9.msdn.com/Series/C-Sharp-Fundamentals-Development-for-Absolute-Beginners)
 * [C# 101](https://channel9.msdn.com/Series/CSharp-101)
