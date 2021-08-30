@@ -20,7 +20,7 @@ Backend:
 * [C# Fundamentals: Development for Absolute Beginners](https://channel9.msdn.com/Series/C-Sharp-Fundamentals-Development-for-Absolute-Beginners)
 * [C# 101](https://channel9.msdn.com/Series/CSharp-101)
 * [C# Advanced](https://channel9.msdn.com/Series/C-Advanced)
-* [101 LINQ Samples](https://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b)
+* [101 LINQ Samples](https://docs.microsoft.com/en-us/samples/dotnet/try-samples/101-linq-samples/)
 * [LINQ Samples](https://linqsamples.com/linq-to-objects/projection/Select)
 * [.Net Core 101](https://channel9.msdn.com/Series/NET-Core-101)
 * [ASP.NET Core 101](https://channel9.msdn.com/Series/ASPNET-Core-101) (... not so important, we use only Web.API, no Razor or Blazor). 
