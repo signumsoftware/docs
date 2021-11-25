@@ -26,6 +26,7 @@ Backend:
 * [ASP.NET Core 101](https://channel9.msdn.com/Series/ASPNET-Core-101) (... not so important, we use only Web.API, no Razor or Blazor). 
 
 Frontend: 
+* [Modern JavaScript Tutorial](https://javascript.info/)
 * [React](https://reactjs.org/docs/hello-world.html)
 * [TypeScript documentation](http://www.typescriptlang.org/docs/home.html)
 * [Typescript Cheatsheet](https://rmolinamir.github.io/typescript-cheatsheet/)
