@@ -56,6 +56,7 @@ If you have access to Udemy.com, this videos could be usefull to learn the prere
   - Skip: 4: Dom projects
   - Skip: 6: OOP Book List PRoject
   - Skip: 8: API Projects
+ * https://www.udemy.com/course/the-complete-javascript-course/
 
 #### Typescript
 * https://www.udemy.com/course/understanding-typescript/
