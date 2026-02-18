@@ -86,6 +86,10 @@ Diagram showing the main component of Signum Framworks, with links to relevant p
 
 Diagram with the basic architecture of a Signum Framework application (ComputerShop in this case)
 
+### DeepWiki
+
+* **[DeepWiki](https://deepwiki.com/signumsoftware/framework)**: Incredibly AI-powered documentation.
+
 ### Markdown documentation 
 
 The [documentation site](http://www.signumsoftware.com/Documentation) in http://www.signumsoftware.com contains a viewer for the Markdown files included in Signum Framework repository. 
